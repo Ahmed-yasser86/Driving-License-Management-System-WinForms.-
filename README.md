@@ -60,14 +60,6 @@ A **comprehensive** and **secure** Driving License Management System built with 
 
 ---
 
-## 📂 Installation & Setup  
-
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/yourusername/Driving-License-Management-System.git
-   cd Driving-License-Management-System
-
-
 
 ## ⚠️ Learning Project Disclaimer  
 
